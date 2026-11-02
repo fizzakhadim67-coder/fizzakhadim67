@@ -6,8 +6,8 @@ BS Artificial Intelligence Student at Superior University
 📫 Reach me: [fizzakhadim67@gmail.com / https://www.linkedin.com/in/fizza-khadim-64bb95446?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 
 ### Skills
-- Python | HTML | CSS | JavaScript
-- ChatGPT | GitHub
+- Communication | Quick Learner
+- ChatGPT
 
 ### Projects
 - Assignment 01 Website Project
